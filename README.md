@@ -42,8 +42,6 @@ Total: 65.15
 ```
 
 ## example 3
-Input 2:
-```
 Input 3:
 ```
 1 imported bottle of perfume at 27.99
